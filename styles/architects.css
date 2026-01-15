@@ -125,7 +125,7 @@ main > section {
 .facts-container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
- 
+    margin-top: 40px;
 }
 
 .fact-card {
@@ -172,6 +172,14 @@ main > section {
         gap: 24px;
     }
     .our-featuras{
+        margin-left: 20px;
+    }
+    
+    
+    .scetion-title{
+        margin-left: 20px;
+    }
+    .fact-description{
         margin-left: 20px;
     }
 }
